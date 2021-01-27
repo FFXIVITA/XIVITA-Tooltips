@@ -5,11 +5,11 @@
 [![Open Issues](https://img.shields.io/github/issues/nonowazu/vue-xivtooltips)](https://github.com/nonowazu/vue-xivtooltips/issues)
 [![Licence](https://img.shields.io/github/license/nonowazu/vue-xivtooltips)](https://github.com/nonowazu/vue-xivtooltips/blob/master/LICENSE)
 
-# Vue-XIVTooltips
+# Tooltips
 
 ## Introduction
 
-Vue-XIVTooltips is a project with the goal of providing a concise and straigthforward way of visualizing data from [XIVAPI](https://xivapi.com/) as easily readable tooltips that are modeled after the in-game tooltips of Final Fantasy XIV.
+XIVTooltips is a project with the goal of providing a concise and straigthforward way of visualizing data from [XIVAPI](https://xivapi.com/) as easily readable tooltips that are modeled after the in-game tooltips of Final Fantasy XIV.
 It's built on the foundations of [Vue](https://vuejs.org/) and [Vuex](https://vuex.vuejs.org/) and can be used to provide tooltips for a website in html.
 
 ## Installation
@@ -21,7 +21,7 @@ Both nodejs and yarnpkg are required to build the application:
 
 Further installation:
 
-If all requirements are installed, you can proceed. To build XIVTooltips, open the command line of your choice, navigate to the XIVTooltips directory and execute `yarn build` for production usage or `yarn build:dev` for developer usage.
+If all requirements are installed, you can proceed. To build Tooltips, open the command line of your choice, navigate to the Tooltips directory and execute `yarn build` for production usage or `yarn build:dev` for developer usage.
 
 After a successful build, you can proceed.
 
